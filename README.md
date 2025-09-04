@@ -6,14 +6,14 @@ The goal was to demonstrate how SQL can transform raw business data into clear i
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - PostgreSQL  
 - SQL  
 - pgAdmin / psql  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - **schema.sql** → Defines database schema and relationships.  
 - **load_data.sql** → Loads and transforms raw data from staging into final tables.  
 - **queries.sql** → Contains analysis queries to generate business insights.  
@@ -21,7 +21,7 @@ The goal was to demonstrate how SQL can transform raw business data into clear i
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Create a new database in PostgreSQL:  
    ```sql
    CREATE DATABASE ecommerce_shipping;
